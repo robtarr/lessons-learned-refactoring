@@ -9,7 +9,16 @@ http://www.methodsandtools.com/archive/mikado.php <!-- .element: style="font-siz
 ![Mikado Method Flow Chart](/images/refactoring/mikadomethod-flowchart.jpg)
 
 
-![Mikado Method In Practice](/images/refactoring/mikado-drawing.jpg)
+![Mikado Method In Practice](/images/mikado/1.jpg) <!-- .element: style="width: 500px;" -->
+
+
+![Mikado Method In Practice](/images/mikado/2.jpg) <!-- .element: style="width: 500px;" -->
+
+
+![Mikado Method In Practice](/images/mikado/3.jpg) <!-- .element: style="width: 500px;" -->
+
+
+![Mikado Method In Practice](/images/mikado/4.jpg) <!-- .element: style="width: 500px;" -->
 
 
 <!-- .slide: data-background="#bec37b" -->
