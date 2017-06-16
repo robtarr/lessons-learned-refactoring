@@ -1,0 +1,7 @@
+outline.md
+js/*.min.js
+
+node_modules/**
+**/.DS_Store
+
+*.orig
