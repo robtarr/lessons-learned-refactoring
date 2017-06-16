@@ -38,5 +38,10 @@
 ![Sparkbox](./images/Sparkbox.svg) <!-- .element style="margin-top: 2em;" -->
 
 
-### Notes
+## Follow Along
+
+http://refactoring.robtarr.net
+
+
+## Notes
 [bit.ly/sb-converge](//bit.ly/sb-converge) <!-- .element target="_blank" -->
