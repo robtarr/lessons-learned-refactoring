@@ -1,11 +1,4 @@
 
-# Refactoring
-
-> If we want to be successful software developers, we need to learn how to morph an existing system into a desired new shape.
-
-http://www.methodsandtools.com/archive/mikado.php <!-- .element: style="font-size: .6em;" -->
-
-
 # Find/Replace
 
 ModelModel ➡ ModalModel
@@ -46,9 +39,6 @@ export {
 
 
 https://github.com/cpojer/js-codemod <!-- .element: target="_blank" -->
-
-
-https://github.com/cpojer/js-codemod/blob/master/transforms/trailing-commas.js <!-- .element: target="_blank" -->
 
 
 # [astexplorer.net](http://astexplorer.net) <!-- .element: target="_blank" -->
