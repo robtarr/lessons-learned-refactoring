@@ -41,7 +41,3 @@
 ## Follow Along
 
 http://refactoring.robtarr.net
-
-
-## Notes
-[bit.ly/sb-converge](//bit.ly/sb-converge) <!-- .element target="_blank" -->
