@@ -6,9 +6,6 @@
 http://www.methodsandtools.com/archive/mikado.php <!-- .element: style="font-size: .6em;" target="_blank" -->
 
 
-![Mikado Method Flow Chart](/images/refactoring/mikadomethod-flowchart.jpg)
-
-
 ![Mikado Method In Practice](/images/mikado/1.jpg) <!-- .element: style="width: 500px;" -->
 
 
